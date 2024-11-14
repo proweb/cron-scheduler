@@ -1,5 +1,5 @@
 <?php
-// Filename MUST have Tasks.php as suffix
+// Filename MUST have Do.php as suffix
 use Crunz\Schedule;
 
 require dirname(__DIR__) . '/vendor/autoload.php';
