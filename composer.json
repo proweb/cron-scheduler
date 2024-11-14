@@ -1,0 +1,5 @@
+{
+    "require": {
+        "crunzphp/crunz": "^3.7"
+    }
+}

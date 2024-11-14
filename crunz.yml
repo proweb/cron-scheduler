@@ -1,0 +1,6 @@
+# Crunz Configuration Settings
+source: cron
+suffix: Do.php
+timezone: Europe/Moscow
+
+
